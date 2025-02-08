@@ -1,0 +1,14 @@
+!Curry Rice!
+Ingredients: potato, meat, celery, rice, curry cubes, chocolate chips
+Estimated cooking time: 2 hours
+Healthiness Scale: 5
+
+!Celery Salad!
+Ingredients: celery, apple, mayonaise, walnuts, salt, pepper
+Estimated cooking time: 20 minutes
+Healthiness Scale: 7
+
+!Potato Salad!
+Ingredients: potato, fried onions, cucumber, mayonaise, salt, pepper
+Estimated cooking time: 45 minutes
+Healthiness Scale: 7
