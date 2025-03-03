@@ -14,3 +14,11 @@ def main():
     st.button("Recipes")
     st.button("Gallery")
     st.button("Settings")
+
+    st.button("Click here if you would like to adjust your preferences!")
+
+    st.divider
+
+    # st.write("Your Plan:")
+
+    # st.read("")
