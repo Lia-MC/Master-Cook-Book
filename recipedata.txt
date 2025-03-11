@@ -12,3 +12,8 @@ Healthiness Scale: 7
 Ingredients: potato, fried onions, cucumber, mayonaise, salt, pepper
 Estimated cooking time: 45 minutes
 Healthiness Scale: 7
+
+!!
+Ingredients: 
+Estimated cooking time: xx minutes
+Healthiness Scale: 
