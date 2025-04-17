@@ -19,6 +19,6 @@ def main():
 
     st.divider
 
-    # st.write("Your Plan:")
+    st.write("What ingredients would you like to use:")
 
-    # st.read("")
+    st.read("")
